@@ -1,0 +1,21 @@
+C:\Users\12283\source\repos\MyTransactionLog\bin\Debug\MyTransactionLog.exe.config
+C:\Users\12283\source\repos\MyTransactionLog\bin\Debug\MyTransactionLog.exe
+C:\Users\12283\source\repos\MyTransactionLog\bin\Debug\MyTransactionLog.pdb
+C:\Users\12283\source\repos\MyTransactionLog\obj\Debug\MyTransactionLog.csproj.AssemblyReference.cache
+C:\Users\12283\source\repos\MyTransactionLog\obj\Debug\MyTransactionLog.csproj.CoreCompileInputs.cache
+C:\Users\12283\source\repos\MyTransactionLog\obj\Debug\MyTransactionLog.exe
+C:\Users\12283\source\repos\MyTransactionLog\obj\Debug\MyTransactionLog.pdb
+C:\Users\12283\source\repos\Changebot Project - LogKioskTransaction\bin\Debug\MyTransactionLog.exe.config
+C:\Users\12283\source\repos\Changebot Project - LogKioskTransaction\bin\Debug\MyTransactionLog.exe
+C:\Users\12283\source\repos\Changebot Project - LogKioskTransaction\bin\Debug\MyTransactionLog.pdb
+C:\Users\12283\source\repos\Changebot Project - LogKioskTransaction\obj\Debug\MyTransactionLog.csproj.AssemblyReference.cache
+C:\Users\12283\source\repos\Changebot Project - LogKioskTransaction\obj\Debug\MyTransactionLog.csproj.CoreCompileInputs.cache
+C:\Users\12283\source\repos\Changebot Project - LogKioskTransaction\obj\Debug\MyTransactionLog.exe
+C:\Users\12283\source\repos\Changebot Project - LogKioskTransaction\obj\Debug\MyTransactionLog.pdb
+C:\Users\12283\source\repos\LogTransaction\bin\Debug\MyTransactionLog.exe.config
+C:\Users\12283\source\repos\LogTransaction\bin\Debug\MyTransactionLog.exe
+C:\Users\12283\source\repos\LogTransaction\bin\Debug\MyTransactionLog.pdb
+C:\Users\12283\source\repos\LogTransaction\obj\Debug\MyTransactionLog.csproj.AssemblyReference.cache
+C:\Users\12283\source\repos\LogTransaction\obj\Debug\MyTransactionLog.csproj.CoreCompileInputs.cache
+C:\Users\12283\source\repos\LogTransaction\obj\Debug\MyTransactionLog.exe
+C:\Users\12283\source\repos\LogTransaction\obj\Debug\MyTransactionLog.pdb

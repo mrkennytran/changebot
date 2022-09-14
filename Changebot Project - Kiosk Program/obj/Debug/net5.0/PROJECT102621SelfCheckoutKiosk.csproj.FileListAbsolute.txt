@@ -1,0 +1,160 @@
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKiosk\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.exe
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKiosk\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.deps.json
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKiosk\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.runtimeconfig.json
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKiosk\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.runtimeconfig.dev.json
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKiosk\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKiosk\bin\Debug\net5.0\ref\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKiosk\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.pdb
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKiosk\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.csproj.AssemblyReference.cache
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKiosk\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKiosk\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.AssemblyInfoInputs.cache
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKiosk\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.AssemblyInfo.cs
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKiosk\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.csproj.CoreCompileInputs.cache
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKiosk\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKiosk\obj\Debug\net5.0\ref\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKiosk\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.pdb
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKiosk\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.genruntimeconfig.cache
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKioskCOMPLETE\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.exe
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKioskCOMPLETE\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.deps.json
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKioskCOMPLETE\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.runtimeconfig.json
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKioskCOMPLETE\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.runtimeconfig.dev.json
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKioskCOMPLETE\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKioskCOMPLETE\bin\Debug\net5.0\ref\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKioskCOMPLETE\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.pdb
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKioskCOMPLETE\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.csproj.AssemblyReference.cache
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKioskCOMPLETE\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKioskCOMPLETE\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.AssemblyInfoInputs.cache
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKioskCOMPLETE\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.AssemblyInfo.cs
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKioskCOMPLETE\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.csproj.CoreCompileInputs.cache
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKioskCOMPLETE\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKioskCOMPLETE\obj\Debug\net5.0\ref\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKioskCOMPLETE\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.pdb
+C:\Users\12283\source\repos\PROJECT102621SelfCheckoutKioskCOMPLETE\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.genruntimeconfig.cache
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskREVISE\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.exe
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskREVISE\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.deps.json
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskREVISE\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.runtimeconfig.json
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskREVISE\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.runtimeconfig.dev.json
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskREVISE\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskREVISE\bin\Debug\net5.0\ref\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskREVISE\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.pdb
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskREVISE\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.csproj.AssemblyReference.cache
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskREVISE\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskREVISE\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.AssemblyInfoInputs.cache
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskREVISE\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.AssemblyInfo.cs
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskREVISE\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.csproj.CoreCompileInputs.cache
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskREVISE\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskREVISE\obj\Debug\net5.0\ref\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskREVISE\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.pdb
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskREVISE\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.genruntimeconfig.cache
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskCOMPLETED1111321\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.exe
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskCOMPLETED1111321\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.deps.json
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskCOMPLETED1111321\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.runtimeconfig.json
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskCOMPLETED1111321\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.runtimeconfig.dev.json
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskCOMPLETED1111321\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskCOMPLETED1111321\bin\Debug\net5.0\ref\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskCOMPLETED1111321\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.pdb
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskCOMPLETED1111321\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.csproj.AssemblyReference.cache
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskCOMPLETED1111321\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskCOMPLETED1111321\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.AssemblyInfoInputs.cache
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskCOMPLETED1111321\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.AssemblyInfo.cs
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskCOMPLETED1111321\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.csproj.CoreCompileInputs.cache
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskCOMPLETED1111321\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskCOMPLETED1111321\obj\Debug\net5.0\ref\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskCOMPLETED1111321\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.pdb
+C:\Users\12283\Desktop\PROJECT102621SelfCheckoutKioskCOMPLETED1111321\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.genruntimeconfig.cache
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.exe
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.deps.json
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.runtimeconfig.json
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.runtimeconfig.dev.json
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot\bin\Debug\net5.0\ref\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.pdb
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.csproj.AssemblyReference.cache
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.AssemblyInfoInputs.cache
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.AssemblyInfo.cs
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.csproj.CoreCompileInputs.cache
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot\obj\Debug\net5.0\ref\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.pdb
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.genruntimeconfig.cache
+C:\Users\12283\source\repos\Kenny Tran MS Coding Changebot\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.exe
+C:\Users\12283\source\repos\Kenny Tran MS Coding Changebot\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.deps.json
+C:\Users\12283\source\repos\Kenny Tran MS Coding Changebot\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.runtimeconfig.json
+C:\Users\12283\source\repos\Kenny Tran MS Coding Changebot\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.runtimeconfig.dev.json
+C:\Users\12283\source\repos\Kenny Tran MS Coding Changebot\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\source\repos\Kenny Tran MS Coding Changebot\bin\Debug\net5.0\ref\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\source\repos\Kenny Tran MS Coding Changebot\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.pdb
+C:\Users\12283\source\repos\Kenny Tran MS Coding Changebot\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.csproj.AssemblyReference.cache
+C:\Users\12283\source\repos\Kenny Tran MS Coding Changebot\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12283\source\repos\Kenny Tran MS Coding Changebot\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.AssemblyInfoInputs.cache
+C:\Users\12283\source\repos\Kenny Tran MS Coding Changebot\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.AssemblyInfo.cs
+C:\Users\12283\source\repos\Kenny Tran MS Coding Changebot\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.csproj.CoreCompileInputs.cache
+C:\Users\12283\source\repos\Kenny Tran MS Coding Changebot\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\source\repos\Kenny Tran MS Coding Changebot\obj\Debug\net5.0\ref\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\source\repos\Kenny Tran MS Coding Changebot\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.pdb
+C:\Users\12283\source\repos\Kenny Tran MS Coding Changebot\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.genruntimeconfig.cache
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.exe
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.deps.json
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.runtimeconfig.json
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.runtimeconfig.dev.json
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy\bin\Debug\net5.0\ref\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.pdb
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.csproj.AssemblyReference.cache
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.AssemblyInfoInputs.cache
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.AssemblyInfo.cs
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.csproj.CoreCompileInputs.cache
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy\obj\Debug\net5.0\ref\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.pdb
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.genruntimeconfig.cache
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy 2 ADD AFTER\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.exe
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy 2 ADD AFTER\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.deps.json
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy 2 ADD AFTER\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.runtimeconfig.json
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy 2 ADD AFTER\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.runtimeconfig.dev.json
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy 2 ADD AFTER\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy 2 ADD AFTER\bin\Debug\net5.0\ref\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy 2 ADD AFTER\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.pdb
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy 2 ADD AFTER\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.csproj.AssemblyReference.cache
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy 2 ADD AFTER\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy 2 ADD AFTER\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.AssemblyInfoInputs.cache
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy 2 ADD AFTER\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.AssemblyInfo.cs
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy 2 ADD AFTER\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.csproj.CoreCompileInputs.cache
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy 2 ADD AFTER\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy 2 ADD AFTER\obj\Debug\net5.0\ref\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy 2 ADD AFTER\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.pdb
+C:\Users\12283\Desktop\Kenny Tran MS Coding Changebot - Copy 2 ADD AFTER\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.genruntimeconfig.cache
+C:\Users\12283\Desktop\OfficialChangebot\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.exe
+C:\Users\12283\Desktop\OfficialChangebot\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.deps.json
+C:\Users\12283\Desktop\OfficialChangebot\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.runtimeconfig.json
+C:\Users\12283\Desktop\OfficialChangebot\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.runtimeconfig.dev.json
+C:\Users\12283\Desktop\OfficialChangebot\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\Desktop\OfficialChangebot\bin\Debug\net5.0\ref\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\Desktop\OfficialChangebot\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.pdb
+C:\Users\12283\Desktop\OfficialChangebot\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.csproj.AssemblyReference.cache
+C:\Users\12283\Desktop\OfficialChangebot\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12283\Desktop\OfficialChangebot\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.AssemblyInfoInputs.cache
+C:\Users\12283\Desktop\OfficialChangebot\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.AssemblyInfo.cs
+C:\Users\12283\Desktop\OfficialChangebot\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.csproj.CoreCompileInputs.cache
+C:\Users\12283\Desktop\OfficialChangebot\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\Desktop\OfficialChangebot\obj\Debug\net5.0\ref\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\Desktop\OfficialChangebot\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.pdb
+C:\Users\12283\Desktop\OfficialChangebot\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.genruntimeconfig.cache
+C:\Users\12283\source\repos\Changebot Project - Kiosk Program\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.exe
+C:\Users\12283\source\repos\Changebot Project - Kiosk Program\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.deps.json
+C:\Users\12283\source\repos\Changebot Project - Kiosk Program\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.runtimeconfig.json
+C:\Users\12283\source\repos\Changebot Project - Kiosk Program\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.runtimeconfig.dev.json
+C:\Users\12283\source\repos\Changebot Project - Kiosk Program\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\source\repos\Changebot Project - Kiosk Program\bin\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.pdb
+C:\Users\12283\source\repos\Changebot Project - Kiosk Program\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.csproj.AssemblyReference.cache
+C:\Users\12283\source\repos\Changebot Project - Kiosk Program\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12283\source\repos\Changebot Project - Kiosk Program\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.AssemblyInfoInputs.cache
+C:\Users\12283\source\repos\Changebot Project - Kiosk Program\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.AssemblyInfo.cs
+C:\Users\12283\source\repos\Changebot Project - Kiosk Program\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.csproj.CoreCompileInputs.cache
+C:\Users\12283\source\repos\Changebot Project - Kiosk Program\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\source\repos\Changebot Project - Kiosk Program\obj\Debug\net5.0\ref\PROJECT102621SelfCheckoutKiosk.dll
+C:\Users\12283\source\repos\Changebot Project - Kiosk Program\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.pdb
+C:\Users\12283\source\repos\Changebot Project - Kiosk Program\obj\Debug\net5.0\PROJECT102621SelfCheckoutKiosk.genruntimeconfig.cache
+C:\Users\12283\source\repos\Changebot Project - Kiosk Program\obj\Debug\net5.0\refint\PROJECT102621SelfCheckoutKiosk.dll

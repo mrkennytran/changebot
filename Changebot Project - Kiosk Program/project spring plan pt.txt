@@ -1,0 +1,45 @@
+SELF-CHECKOUT KIOSK PROJECT 
+
+WEEK 1  
+
+CREATE VS PROJECT (BEFORE SCANNING PROCESS) 
+
+Create user defined datatype for MONEY and create label members for each coin and bill DONE
+
+Create Prompt() functions for string DONE
+
+Create IntPrompt() functions for integer  DONE
+
+Create DblPrompt() functions for double DONE
+
+ 
+
+Create validation function for inputs (no negative values or letters) 
+
+ 
+
+Make a function to enter each store item cost until no further cost has been supplied – (SCANNING PROCESS) 
+
+Create EnterItemCost() function that displays each item index and where the user can enter the cost for each item. 
+
+Return total store cost 
+
+ 
+
+Make a function that displays the total and asks the user to insert money (PAYMENT PROCESS) DONE
+
+Ask the user to input a bill or coin until amount input meets or exceeds amount of purchase DONE
+
+Return change owed/ actual money being returned DONE
+
+ 
+
+Function to dispense the change (CHANGE RETURNED PROCESS) DONE
+
+Returns change with DispenseMoney() function/ coins and bills returned  DONE
+
+ 
+
+Make a function that can tell if the kiosk has enough money to dispense (CANCEL TRANSACTION) DONE
+
+ 

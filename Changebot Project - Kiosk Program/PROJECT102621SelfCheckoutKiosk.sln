@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROJECT102621SelfCheckoutKiosk", "PROJECT102621SelfCheckoutKiosk.csproj", "{049638CB-0C6D-4221-8DC2-F91E308DB86D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{049638CB-0C6D-4221-8DC2-F91E308DB86D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{049638CB-0C6D-4221-8DC2-F91E308DB86D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{049638CB-0C6D-4221-8DC2-F91E308DB86D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{049638CB-0C6D-4221-8DC2-F91E308DB86D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34102D86-240B-45C7-A1DE-B2BA2A89EBC1}
+	EndGlobalSection
+EndGlobal
